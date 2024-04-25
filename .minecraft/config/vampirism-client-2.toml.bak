@@ -1,7 +1,10 @@
 
 #Client configuration settings
 [client]
-	internal = {}
+
+	[client.internal]
+		#Action ordering
+		actionOrder = "{\"vampirism:old\":[\"vampiricageing:drain_blood_action\",\"vampiricageing:celerity_action\",\"vampiricageing:hunter_teleport_action\",\"vampiricageing:limited_hunter_batmode_action\",\"vampiricageing:water_walking_action\",\"vampirism:bat\",\"vampirism:dark_blood_projectile\",\"vampirism:disguise_vampire\",\"vampirism:freeze\",\"vampirism:half_invulnerable\",\"vampirism:regen\",\"vampirism:sunscreen\",\"vampirism:summon_bat\",\"vampirism:teleport\",\"vampirism:vampire_invisibility\",\"vampirism:vampire_rage\",\"vampirism:hissing\",\"vampirism:infect\",\"vampirism:awareness_hunter\",\"vampirism:disguise_hunter\",\"vampirism:potion_resistance_hunter\",\"vampirism:lord_speed\",\"vampirism:lord_attack_speed\",\"werewolves:human_form\",\"werewolves:beast_form\",\"werewolves:survival_form\",\"werewolves:howling\",\"werewolves:rage\",\"werewolves:sense\",\"werewolves:fear\",\"werewolves:leap\",\"werewolves:hide_name\"]}"
 
 	#Configure rendering
 	[client.render]
