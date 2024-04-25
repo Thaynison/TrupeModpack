@@ -1,4 +1,4 @@
-<h1>TrupeModpack</h1>
+<h1>Wizards Trupe Academy</h1>
 
 <p>Bem-vindo ao nosso modpack de Minecraft focado em aventura, ação e muito farm de recursos! Este modpack foi cuidadosamente selecionado para oferecer uma experiência emocionante e desafiadora, repleta de novos recursos, inimigos e locais para explorar. Prepare-se para mergulhar em um mundo cheio de perigos e maravilhas.</p>
 
@@ -13,6 +13,10 @@
     <li>Mecânicas de farming aprimoradas, incentivando os jogadores a explorarem e coletarem recursos para sobreviver e prosperar.</li>
     <li>Suporte para multiplayer, permitindo que você jogue com amigos e enfrente desafios juntos.</li>
 </ul>
+
+<h2>Site</h2>
+
+<p>O site do modpack foi projetado para proporcionar uma experiência melhor na comunidade do jogo, combinando elementos de chat online, ação de compras e doações com premiações.</p>
 
 <h2>Instalação</h2>
 
