@@ -1,1 +1,0 @@
-[{"type":"VARIANTS","id":"UNUSED","enabled":true,"data":{"variants":[{"name":"oak","color":3967260},{"name":"jungle","color":7115294},{"name":"cherry","color":16752348},{"name":"spruce","color":3232305}]}},{"type":"ARMOR_HANDLING","id":"BUSH","enabled":true,"data":{"head":true,"arms":true,"body":true,"legs":true}}]
