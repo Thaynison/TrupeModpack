@@ -10,11 +10,6 @@
 		#Whether sundamage should be applied to vampires in this biome or not
 		disable_sundamage_ominous_woods = true
 
-	[Compatibility.toughasnails]
-		enable_compat_toughasnails = true
-		#Limit thirst for vampires
-		disableThirst = true
-
 	[Compatibility.guardvillagers]
 		enable_compat_guardvillagers = true
 
