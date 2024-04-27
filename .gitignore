@@ -1,14 +1,12 @@
-.minecraft/icon.png
-.minecraft/optionsshaders.txt
-.minecraft/patchouli_data.json
-.minecraft/usercache.json
-.minecraft/usernamecache.json
+# .minecraft/config
 .minecraft/coremods
 .minecraft/crash-reports
 .minecraft/defaultconfigs
+.minecraft/essential
 .minecraft/journeymap
 .minecraft/local
 .minecraft/logs
+# .minecraft/mods
 .minecraft/patchouli_books
 .minecraft/resourcepacks
 .minecraft/saves
@@ -16,5 +14,15 @@
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/shaderpacks
-.minecraft/teste
 .minecraft/texturepacks
+.minecraft/icon.png
+.minecraft/ops.json
+# .minecraft/options.txt
+# .minecraft/optionsof.txt
+# .minecraft/optionsshaders.txt
+.minecraft/patchouli_data.json
+.minecraft/server.dat
+.minecraft/servers.dat_old
+.minecraft/servers.essential.dat
+.minecraft/usercache.json
+.minecraft/usernamecache.json
