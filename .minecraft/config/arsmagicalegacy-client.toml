@@ -1,0 +1,60 @@
+
+#HUD Elements
+[hud_elements]
+
+	[hud_elements.mana]
+		#Horizontal position of the mana bar.
+		#Range: -32768 ~ 32767
+		mana_x = 6
+		#Vertical position of the mana bar.
+		#Range: -32768 ~ 32767
+		mana_y = 14
+		#Horizontal anchor of the mana bar.
+		#Allowed Values: LEFT, CENTER, RIGHT
+		mana_anchor_x = "RIGHT"
+		#Horizontal anchor of the mana bar.
+		#Allowed Values: TOP, CENTER, BOTTOM
+		mana_anchor_y = "BOTTOM"
+
+	[hud_elements.burnout]
+		#Horizontal position of the burnout bar.
+		#Range: -32768 ~ 32767
+		burnout_x = 6
+		#Vertical position of the burnout bar.
+		#Range: -32768 ~ 32767
+		burnout_y = 4
+		#Horizontal anchor of the burnout bar.
+		#Allowed Values: LEFT, CENTER, RIGHT
+		burnout_anchor_x = "RIGHT"
+		#Horizontal anchor of the burnout bar.
+		#Allowed Values: TOP, CENTER, BOTTOM
+		burnout_anchor_y = "BOTTOM"
+
+	[hud_elements.xp]
+		#Horizontal position of the magic xp bar.
+		#Range: -32768 ~ 32767
+		xp_x = 6
+		#Vertical position of the magic xp bar.
+		#Range: -32768 ~ 32767
+		xp_y = 24
+		#Horizontal anchor of the magic xp bar.
+		#Allowed Values: LEFT, CENTER, RIGHT
+		xp_anchor_x = "RIGHT"
+		#Horizontal anchor of the magic xp bar.
+		#Allowed Values: TOP, CENTER, BOTTOM
+		xp_anchor_y = "BOTTOM"
+
+	[hud_elements.spell_book]
+		#Horizontal position of the spell book hud.
+		#Range: -32768 ~ 32767
+		spell_book_x = -129
+		#Vertical position of the spell book hud.
+		#Range: -32768 ~ 32767
+		spell_book_y = 18
+		#Horizontal anchor of the spell book hud.
+		#Allowed Values: LEFT, CENTER, RIGHT
+		spell_book_anchor_x = "CENTER"
+		#Horizontal anchor of the spell book hud.
+		#Allowed Values: TOP, CENTER, BOTTOM
+		spell_book_anchor_y = "BOTTOM"
+

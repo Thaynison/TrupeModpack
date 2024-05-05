@@ -40,10 +40,10 @@
 	[general.dynamic_tank]
 		#Amount of fluid (mB) that each block of the dynamic tank contributes to the volume. Max = volume * fluidPerTank
 		#Range: 1 ~ 368224
-		fluidPerTank = 350000
+		fluidPerTank = 368224
 		#Amount of chemical (mB) that each block of the dynamic tank contributes to the volume. Max = volume * chemicalPerTank
 		#Range: 1 ~ 1581510980256305
-		chemicalPerTank = 16000000
+		chemicalPerTank = 1581510980256305
 
 	#Auto Eject Settings
 	[general.auto_eject]
@@ -105,7 +105,7 @@
 		negativeEffectsMinSeverity = 0.1
 		#Amount of gas (mB) that can be stored in a Radioactive Waste Barrel.
 		#Range: 1 ~ 9223372036854775807
-		radioactiveWasteBarrelMaxGas = 512000
+		radioactiveWasteBarrelMaxGas = 512000000
 		#Number of ticks required for radioactive gas stored in a Radioactive Waste Barrel to decay radioactiveWasteBarrelDecayAmount mB.
 		#Range: > 1
 		radioactiveWasteBarrelProcessTicks = 20

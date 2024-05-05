@@ -9,7 +9,7 @@
 		"Generate Dragon Skeleton Chance" = 300
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Cave Chance" = 180
+		"Generate Dragon Cave Chance" = 30
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
 		"Generate Dragon Roost Chance" = 360
@@ -46,7 +46,7 @@
 		#Range: 0 ~ 2
 		"Dragon Griefing" = 0
 		#True if tamed dragons can follow the griefing rules.
-		"Tamed Dragon Griefing" = true
+		"Tamed Dragon Griefing" = false
 		#The percentage chance for a block to drop as an item when a dragon breaks it.
 		#Range: 0.0 ~ 1.0
 		"Dragon Block Breaking Drop Chance" = 0.10000000149011612

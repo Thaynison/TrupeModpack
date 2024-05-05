@@ -177,7 +177,7 @@
 		maxTeleportReach = 100
 		#Base bonus damage applied by the Meka-Tool without using any energy.
 		#Range: 0 ~ 100000
-		baseDamage = 4
+		baseDamage = 20
 		#Attack speed of the Meka-Tool.
 		#Range: -4.0 ~ 100.0
 		attackSpeed = -2.4

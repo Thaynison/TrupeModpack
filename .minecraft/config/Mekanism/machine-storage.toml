@@ -46,7 +46,7 @@
 	#Base energy storage (Joules).
 	fluidicPlenisher = "40000"
 	#Base energy storage (Joules).
-	laser = "2000000"
+	laser = "5000000000"
 	#Base energy storage (Joules).
 	laserAmplifier = "5000000000"
 	#Base energy storage (Joules).

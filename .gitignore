@@ -9,12 +9,12 @@
 .minecraft/logs
 # .minecraft/mods
 .minecraft/patchouli_books
-.minecraft/resourcepacks
+# .minecraft/resourcepacks
 .minecraft/saves
 .minecraft/schematics
 .minecraft/screenshots
 .minecraft/server-resource-packs
-.minecraft/shaderpacks
+# .minecraft/shaderpacks
 .minecraft/texturepacks
 .minecraft/icon.png
 .minecraft/ops.json

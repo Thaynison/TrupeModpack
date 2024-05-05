@@ -17,9 +17,9 @@
 		#Output rate in Joules of Elite energy cubes.
 		eliteOutput = "64000"
 		#Maximum number of Joules Ultimate energy cubes can store.
-		ultimateStorage = "256000000"
+		ultimateStorage = "18446744073709551615.9999"
 		#Output rate in Joules of Ultimate energy cubes.
-		ultimateOutput = "256000"
+		ultimateOutput = "18446744073709551615.9999"
 		#Maximum number of Joules Creative energy cubes can store.
 		creativeStorage = "18446744073709551615.9999"
 		#Output rate in Joules of Creative energy cubes.
@@ -47,10 +47,10 @@
 		eliteOutput = 16000
 		#Storage size of Ultimate fluid tanks in mB.
 		#Range: > 1
-		ultimateStorage = 256000
+		ultimateStorage = 2147483647
 		#Output rate of Ultimate fluid tanks in mB.
 		#Range: > 1
-		ultimateOutput = 64000
+		ultimateOutput = 2147483647
 		#Storage size of Creative fluid tanks in mB.
 		#Range: > 1
 		creativeStorage = 2147483647
@@ -80,10 +80,10 @@
 		eliteOutput = 128000
 		#Storage size of Ultimate chemical tanks in mB.
 		#Range: 1 ~ 9223372036854775807
-		ultimateStorage = 8192000
+		ultimateStorage = 12800000000
 		#Output rate of Ultimate chemical tanks in mB.
 		#Range: 1 ~ 9223372036854775807
-		ultimateOutput = 512000
+		ultimateOutput = 12800000000
 		#Storage size of Creative chemical tanks in mB.
 		#Range: 1 ~ 9223372036854775807
 		creativeStorage = 9223372036854775807
@@ -120,13 +120,13 @@
 		#Maximum number of Joules Ultimate induction cells can store.
 		ultimateStorage = "4000000000000"
 		#Maximum number of Joules Basic induction providers can output or accept.
-		basicOutput = "256000"
+		basicOutput = "8000000000"
 		#Maximum number of Joules Advanced induction providers can output or accept.
-		advancedOutput = "2048000"
+		advancedOutput = "64000000000"
 		#Maximum number of Joules Elite induction providers can output or accept.
-		eliteOutput = "16384000"
+		eliteOutput = "512000000000"
 		#Maximum number of Joules Ultimate induction providers can output or accept.
-		ultimateOutput = "131072000"
+		ultimateOutput = "4000000000000"
 
 	#Transmitters
 	[tier.transmitters]
@@ -140,7 +140,7 @@
 			#Internal buffer in Joules of each Elite universal cable.
 			eliteCapacity = "1024000"
 			#Internal buffer in Joules of each Ultimate universal cable.
-			ultimateCapacity = "8192000"
+			ultimateCapacity = "128000000000"
 
 		#Mechanical Pipes
 		[tier.transmitters.fluid]
@@ -164,10 +164,10 @@
 			elitePullAmount = 8000
 			#Capacity of Ultimate mechanical pipes in mB.
 			#Range: > 1
-			ultimateCapacity = 128000
+			ultimateCapacity = 2147483647
 			#Pump rate of Ultimate mechanical pipes in mB/t.
 			#Range: > 1
-			ultimatePullAmount = 32000
+			ultimatePullAmount = 2147483647
 
 		#Pressurized Tubes
 		[tier.transmitters.chemical]
@@ -191,10 +191,10 @@
 			elitePullAmount = 64000
 			#Capacity of Ultimate pressurized tubes in mB.
 			#Range: 1 ~ 9223372036854775807
-			ultimateCapacity = 1024000
+			ultimateCapacity = 128000000
 			#Pump rate of Ultimate pressurized tubes in mB/t.
 			#Range: 1 ~ 9223372036854775807
-			ultimatePullAmount = 256000
+			ultimatePullAmount = 128000000
 
 		#Logistical Transporters
 		[tier.transmitters.items]
