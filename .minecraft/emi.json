@@ -1,0 +1,31 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:create:empty_schematic",
+    "item:create:schematicannon",
+    "item:ars_nouveau:ritual_forestation",
+    "item:ars_nouveau:ritual_challenge",
+    "item:create:raw_zinc",
+    "item:securitycraft:reinforced_red_nether_brick_slab",
+    "item:irons_spellbooks:scroll{ISB_Spells:{data:[{id:\"irons_spellbooks:chain_lightning\",index:0,level:1,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}}",
+    "item:occultism:book_of_calling_foliot_lumberjack{spiritName:\"Reicloth\"}",
+    "item:botania:metamorphic_mesa_bricks_wall",
+    "item:botania:blue_pavement",
+    {
+      "type": "jemi",
+      "uid": "arsmagicalegacy:effect_power"
+    },
+    {
+      "type": "jemi",
+      "uid": "slurry:mekanism:clean_iron"
+    }
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

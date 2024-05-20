@@ -41,5 +41,5 @@ splashes = true
 	#Range: 4.9E-324 ~ 1.7976931348623157E308
 	flowerFrequency = 0.75
 	#Set this to false to disable the particles in the elven portal.
-	elvenPortal = true
+	elvenPortal = false
 

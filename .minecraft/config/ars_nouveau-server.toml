@@ -3,13 +3,13 @@
 [mana]
 	#Base mana regen in seconds
 	#Range: > 0
-	baseRegen = 5
+	baseRegen = 0
 	#Base max mana
 	#Range: > 0
 	baseMax = 100
 	#How often max and regen will be calculated, in ticks. NOTE: Having the base mana regen AT LEAST this value is recommended.
 	#Range: 1 ~ 20
-	updateInterval = 5
+	updateInterval = 10
 	#Max mana bonus per glyph
 	#Range: > 0
 	glyphmax = 15
@@ -21,7 +21,7 @@
 	tierRegen = 1
 	#Mana Boost value per level
 	#Range: > 0
-	manaBoost = 25
+	manaBoost = 30
 	#(enchantment) Mana regen per second per level
 	#Range: > 0
 	manaRegenEnchantment = 2
@@ -50,7 +50,7 @@
 #Beta Features
 [beta]
 	#Allow crafting infinite spells. This is a beta feature and may cause crashes.
-	infiniteSpells = false
+	infiniteSpells = true
 	#Limits the crafting infinite spells beta, set a cap to the number of additional glyphs. This is a beta feature and may cause crashes.
 	#Range: 10 ~ 1000
 	infiniteSpellLimit = 30
