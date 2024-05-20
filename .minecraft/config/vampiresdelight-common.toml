@@ -1,0 +1,60 @@
+
+#Common settings
+[common]
+
+	#Village
+	[common.village]
+		#Should Farmers buy garlic? (May reduce chances of other trades appearing)
+		farmersBuyGarlic = true
+		#Should the Wandering Trader sell some of vampirism's and this mod's items? (Including seeds and some blocks)
+		wanderingTraderSellsVampirismItems = true
+
+	#Recipe book
+	[common.recipe_book]
+		#Should the Brewing Barrel have a Recipe Book available on its interface?
+		enableRecipeBookBrewingBarrel = true
+
+	#Items
+	[common.items]
+		#Should the Alchemical Cocktail burn ground when thrown? Recommended to set this to "false" on servers with claims.
+		alchemicalCocktailBurnsGround = true
+
+	#Effects
+	[common.effects]
+		#Should the weird jelly Sunscreen effect be replaced with Jump Boost?
+		replaceWeirdJellySunscreenWithJumpboost = false
+		#Should the bat meat and food made of it have chance of giving Wither effect when eaten by humans?
+		batMeatWithersHumans = true
+		#Should the blessing effect banish ghosts just like phantoms?
+		blessingHelpsAgainstGhosts = true
+		#Should 'weak' armor such as leather and chain dissolve fully because of Clothes Dissolving effect?
+		armorDissolvesFully = true
+
+	#Enchantments
+	[common.enchantments]
+		#Should it be possible to apply Backstabbing enchantment to some hunter axes and stakes?
+		backstabbingCanBeAppliedToHunterWeapon = true
+		#What should be the maximum amount of hearts that Vampire Bite enchantment should heal?
+		#Range: 0.5 ~ 10.0
+		vampireBiteMaxHealingValue = 1.5
+		#With what chance should Vampire Bite enchantment regenerate health?
+		#Range: 1 ~ 100
+		vampireBiteChanceLevel1 = 20
+		#Range: 1 ~ 100
+		vampireBiteChanceLevel2 = 25
+		#Range: 1 ~ 100
+		vampireBiteChanceLevel3 = 30
+		#Should Vampire Bite enchantment be disabled?
+		#It won't be removed from the game, but it'll be impossible to apply it to tools and it won't heal the player.
+		disableVampireBite = false
+
+	#World generation
+	[common.world]
+		#Should this mod add some of its items as extra chest loot across Minecraft and Vampirism structures?
+		generateVDChestLoot = true
+		#Should a Cooking Pot on a Campfire be generated in hunter camps?
+		generateCookingPotInHunterCamp = true
+		#With what chance should a Cooking Pot on a Campfire be generated in hunter camps?
+		#Range: 1 ~ 100
+		cookingPotInHunterCampSpawnChance = 25
+
